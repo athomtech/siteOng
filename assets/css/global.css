@@ -5,30 +5,25 @@
 }
 
 .slide-header{
-   
     background-color: blueviolet;
 }
-
-
-
 .conteudo{
     position: absolute;
-
 }
-
 .logo {
     width: 90px;
 }
-
+.text-catz{
+  font-family: 'Tinos', serif;
+  font-size: 25px;
+}
 a:hover{
   border-bottom:2px solid green;
 }
 /* external css: flickity.css */
 
 * { box-sizing: border-box; }
-
 body { font-family: sans-serif; }
-
 .carousel {
   background: #EEE;
 }
